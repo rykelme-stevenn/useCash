@@ -1,0 +1,289 @@
+{
+  "users": [
+    {
+      "name": "Rykelme Steven",
+      "email": "rykelme@gmail.com",
+      "login": "Ryks",
+      "senha": "senha",
+      "admin": true,
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Altair Tenório",
+      "email": "alt@gmail.com",
+      "login": "altinho",
+      "senha": "Altair",
+      "admin": true,
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "Adalberto",
+      "email": "adalberto@gmail.com",
+      "login": "bertin",
+      "senha": "Ryjesdas",
+      "admin": true,
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "Mark Zuck",
+      "email": "zuck@gmail.com",
+      "login": "mark",
+      "senha": "marikinh",
+      "admin": true,
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "Peter Parker",
+      "email": "spider@outlook.com",
+      "login": "Spider",
+      "senha": "aranha",
+      "admin": true,
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Tom",
+      "email": "AntonioCarlos@gmail.com",
+      "login": "tomjobim",
+      "senha": "asdasdas",
+      "admin": true,
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "kidzin ",
+      "email": "kkkkkcry@help.com",
+      "login": "kkdd",
+      "senha": "IlIlIl",
+      "admin": true,
+      "status": false,
+      "id": 7
+    },
+    {
+      "name": "Cris",
+      "email": "cris@outlook.com",
+      "login": "CriCris",
+      "senha": "Crstinha",
+      "admin": false,
+      "status": true,
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "email": "AntonioCarlo@gmail.com",
+      "login": "login",
+      "senha": "dddddddd",
+      "admin": true,
+      "status": true,
+      "id": 9
+    },
+    {
+      "name": "Paul",
+      "email": "Paul@gmail.com",
+      "login": "PAULO",
+      "senha": "121445",
+      "admin": true,
+      "status": true,
+      "id": 10
+    },
+    {
+      "name": "Rykelme Steven",
+      "email": "RykelmeSteven@gmail.com",
+      "login": "Ryk",
+      "senha": "Rykelme0",
+      "admin": true,
+      "status": true,
+      "id": 11
+    },
+    {
+      "name": "Camilo Lopes",
+      "email": "Camilo@outlook.com",
+      "login": "Camilo Usecash",
+      "senha": "1234566",
+      "admin": true,
+      "status": true,
+      "id": 12
+    }
+  ],
+  "loads": [
+    {
+      "id": 1,
+      "name": "Administrador",
+      "status": false
+    },
+    {
+      "name": "Programador",
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "gestor de RH",
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "Gestor de T.I.",
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "Marketing Digital",
+      "status": true,
+      "id": 5
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "number": 1,
+      "name": "Loja de Marília",
+      "status": false
+    },
+    {
+      "name": "Pruden Móveis Av. tal",
+      "number": 213,
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "Pruden Moveis centro",
+      "number": 450,
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "Apple",
+      "number": 455,
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "Samsung",
+      "number": 333,
+      "status": false,
+      "id": 5
+    }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "regiao": "SP",
+      "numeroLojas": 2,
+      "status": false,
+      "lojas": [
+        {
+          "name": "Pruden Moveis centro",
+          "number": 450,
+          "status": true,
+          "id": 3
+        },
+        {
+          "name": "Pruden Móveis Av. tal",
+          "number": 213,
+          "status": true,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "regiao": "BA",
+      "numeroLojas": 0,
+      "status": true,
+      "id": 2,
+      "lojas": []
+    },
+    {
+      "regiao": "MG",
+      "numeroLojas": 0,
+      "status": true,
+      "id": 3,
+      "lojas": []
+    },
+    {
+      "regiao": "AL",
+      "status": true,
+      "numeroLojas": 2,
+      "id": 4,
+      "lojas": [
+        {
+          "name": "Pruden Móveis Av. tal",
+          "number": 213,
+          "status": true,
+          "id": 2
+        },
+        {
+          "name": "Apple",
+          "number": 455,
+          "status": true,
+          "id": 4
+        }
+      ]
+    },
+    {
+      "regiao": "PA",
+      "numeroLojas": 0,
+      "status": true,
+      "id": 5,
+      "lojas": []
+    },
+    {
+      "regiao": "TO",
+      "numeroLojas": 1,
+      "status": true,
+      "id": 6,
+      "lojas": [
+        {
+          "name": "Apple",
+          "number": 455,
+          "status": true,
+          "id": 4
+        }
+      ]
+    },
+    {
+      "regiao": "SC",
+      "numeroLojas": 1,
+      "status": true,
+      "id": 7,
+      "lojas": [
+        {
+          "id": 1,
+          "number": 1,
+          "name": "Loja de Marília",
+          "status": false
+        }
+      ]
+    },
+    {
+      "regiao": "CE",
+      "numeroLojas": 2,
+      "status": true,
+      "id": 8,
+      "lojas": [
+        {
+          "name": "Samsung",
+          "number": 333,
+          "status": false,
+          "id": 5
+        },
+        {
+          "name": "Apple",
+          "number": 455,
+          "status": true,
+          "id": 4
+        }
+      ]
+    },
+    {
+      "regiao": "AM",
+      "numeroLojas": 0,
+      "status": false,
+      "id": 9,
+      "lojas": []
+    }
+  ]
+}
